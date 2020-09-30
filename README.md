@@ -5,9 +5,7 @@
     <img src="assets/img/logo.png" width="200" alt="Logo">
 </p>
     <p align="center"><em>Vintage Snake Game</em></p>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Jeferson%20Lucas-Snake%20game%202D-green" alt="JefersonLuckas">
-        <img src="https://img.shields.io/github/license/JefersonLucas/snake-game-2D" alt="License">
+    <p align="center"> By HitmanCodes
   	</p>
 </p>
 
