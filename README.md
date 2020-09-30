@@ -2,16 +2,16 @@
 	<h1 align="center">Snake Game 2D :snake:</h1>
 </p>
 <p align="center">
-    <img src="../../assets/img/logo.png" width="200" alt="Logo">
+    <img src="assets/img/logo.png" width="200" alt="Logo">
 </p>
     <p align="center"><em>The famous 2D snake game in which your goal is to eat until you get huge and accumulate many points</em></p>
     <p align="center">
        
-  	</p>
+  	
 </p>
 
 <p align="center">
-	<img src="../../assets/img/capture.png" alt="Snake Game">
+	<img src="assets/img/capture.png" alt="Snake Game">
 </p>
 
 
