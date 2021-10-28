@@ -8,7 +8,7 @@
  */
 
 //	Variáveis Globais
-	let cobra = [];
+	const cobra = [];
 	let rabo = 2;
 	const velocidade = 1;
 	let velocidade_X = 1;
